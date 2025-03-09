@@ -2,5 +2,5 @@
   "latest": 2.0,
   "message": "<p>Hi</p>",
   "url": "https://google.com",
-  "force": true
+  "force": false
 }
